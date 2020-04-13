@@ -16,7 +16,7 @@
  *
  */
 var games = {
-    "crash":"Crash Bandicoot",
+    "advancewars":"Crash Bandicoot",
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
     "alienhominid":"Alien Hominid",
