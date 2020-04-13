@@ -18,7 +18,7 @@
 var games = {
     "advancewars":"Crash Bandicoot",
     "advancewars2":"Advance Wars 2",
-    "aladdin":"Aladdin",
+    "aladdin":"Driver 2",
     "alienhominid":"Alien Hominid",
     "bomberman_max2blue":"Bomberman Max 2 - Blue Advance",
     "bomberman_tournament":"Bomberman Tournament",
